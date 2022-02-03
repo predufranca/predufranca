@@ -21,7 +21,7 @@
 ## 📌 Aprendendo...
 <div style="display:flexbox;justify-content:space-around;">
   <img height="64" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
 ## 📂 Repositórios
