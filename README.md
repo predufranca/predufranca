@@ -1,7 +1,7 @@
 # 📜 Olá! Bem-vind@ ao meu Readme 😊
 
 - 🎒 O meu nível de escolaridade é: Ensino Médio (Cursando) 
-- 🌱 Atualmente estou aprendendo: JavaScript
+- 🌱 Atualmente estou aprendendo: JavaScript e Python
 - 😄 Pronomes: Ele/Dele
 - 📖 Estou me dedicando atualmente à: Fazer uma geral no meu perfil 😅
 
