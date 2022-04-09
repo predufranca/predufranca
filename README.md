@@ -6,9 +6,9 @@
 - 📖 Estou me dedicando atualmente à: Fazer uma geral no meu perfil 😅
 
 ## ⚡ Meus Status 
-<div style="display: flexbox">
-  <img align="top" width="200em" height="200em" src="https://github-readme-stats.vercel.app/api?username=predufranca&show_icons=true&count_private=true&theme=outrun&border_color=FE19FE" alt="predufranca's status">
-  <img align="top" width="200m" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predufranca&layout=compact&theme=outrun&border_color=FE19FE" alt="predufranca's languages">
+<div style="display: flexbox; width: 100%">
+  <img align="top" width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=predufranca&show_icons=true&count_private=true&theme=outrun&border_color=FE19FE" alt="predufranca's status">
+  <img align="top" width="45%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predufranca&layout=compact&theme=outrun&border_color=FE19FE" alt="predufranca's languages">
 </div>
 
 ## 🏆 Linguagens Aprendidas 
