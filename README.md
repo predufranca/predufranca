@@ -27,8 +27,8 @@
 
 ## 📂 Repositórios
 <div class="display:flebox">
-  <a href="https://github.com/predufranca/Portfolio">
-  <img align="top" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=predufranca&repo=Portfolio&theme=outrun&border_color=FE19FE">
+  <a href="https://github.com/predufranca/Projeto-TCC---Encanto">
+  <img align="top" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=predufranca&repo=Projeto-TCC---Encanto&theme=outrun&border_color=FE19FE">
 </div>
 
 ## 📡 Redes Sociais
