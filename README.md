@@ -1,6 +1,6 @@
 # 📜 Olá! Bem-vind@ ao meu Readme 😊
 
-- 🎒 O meu nível de escolaridade é: Ensino Médio (Cursando) 
+- 🎒 O meu nível de escolaridade é: Ensino Médio (fev-2020/dez-2022) // Graduação em Gestão da Tecnologia da Informação (fev-2023/fev-2026)
 - 🌱 Atualmente estou aprendendo: JavaScript e Python
 - 😄 Pronomes: Ele/Dele
 - 📖 Estou me dedicando atualmente à: Fazer uma geral no meu perfil 😅
