@@ -1,9 +1,9 @@
 # 📜 Olá! Bem-vind@ ao meu Readme 😊
 
 - 🎒 O meu nível de escolaridade é: Ensino Médio (fev-2020/dez-2022) // Graduação em Gestão da Tecnologia da Informação (fev-2023/fev-2026)
-- 🌱 Atualmente estou aprendendo: JavaScript e Python
+- 🌱 Atualmente estou aprendendo: 
 - 😄 Pronomes: Ele/Dele
-- 📖 Estou me dedicando atualmente à: Fazer uma geral no meu perfil 😅
+- 📖 Estou me dedicando atualmente à: 
 
 ## ⚡ Meus Status 
 <div style="display: flexbox; width: 100%">
@@ -11,7 +11,7 @@
   <img align="top" width="45%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predufranca&layout=compact&theme=outrun&border_color=FE19FE" alt="predufranca's languages">
 </div>
 
-## 🏆 Linguagens Aprendidas 
+## 🏆 Linguagens e Ferramentas Aprendidas 
 <div style="display: flexbox; justify-content: space-around;">
   <img height="64" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
   <img height="64" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
