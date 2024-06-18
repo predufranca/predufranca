@@ -11,7 +11,7 @@
   <img align="top" width="45%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=predufranca&layout=compact&theme=outrun&border_color=FE19FE" alt="predufranca's languages">
 </div>
 
-## 🏆 Linguagens e Ferramentas Aprendidas 
+## 🏆 Linguagens e Ferramentas
 <div style="display: flexbox; justify-content: space-around;">
   <img height="64" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
   <img height="64" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
